@@ -8,7 +8,7 @@ This repository serves as a personal archive of my problem-solving journey, demo
 As an aspiring Software Development Engineer, I actively train my algorithmic problem-solving skills. Alongside my regular university coursework and competitive programming on Codeforces (Handle: atawna), I use these challenges to refine my proficiency in core computer science concepts.
 
 ## 💻 Tech Stack
-* **Language:** C++ *(Note: You can update this if you start pushing your Java solutions!)*
+* **Language:** C++ 
 * **Focus Areas:** Arrays, Hash Maps, Pointers, Sliding Window, Trees, Graphs, and Dynamic Programming.
 
 ## 📂 Repository Structure
